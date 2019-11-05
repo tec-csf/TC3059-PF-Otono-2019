@@ -1,6 +1,6 @@
-#*[Poner aquí el Título del Proyecto]*
+# *[Poner aquí el Título del Proyecto]*
 ---
-####Materia *[Poner aquí nombre de la materia]*
+#### Materia: *[Poner aquí nombre de la materia]*
 
 ##### Campus: *[Poner aquí su campus]*
 
